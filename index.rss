@@ -2,6 +2,7 @@
 <title>André Santos's Git Achievements</title>
 <description></description>
 <link></link>
+<item><title>Cherry Picker</title><description>Used git cherry-pick to add a sha from another branch into the current branch.</description></item>
 <item><title>Apprentice Fisherman (Level 2)</title><description>Look for specified patterns in the current repository with git grep.</description></item>
 <item><title>Miller (Level 5)</title><description>Add only part of a file to the stage 2950 times with git add -p.</description></item>
 <item><title>Apprentice Banker (Level 2)</title><description>Join two or more development histories together with git merge.</description></item>
@@ -21,5 +22,4 @@
 <item><title>Merchant (Level 5)</title><description>Added an external repository with git remote add.</description></item>
 <item><title>Master Socialite (Level 9)</title><description>pushed a branch to a remote repository using git push</description></item>
 <item><title>Master Carpenter (Level 19)</title><description>Custom git hooks are installed which help catch issues before they are shared.</description></item>
-<item><title>Master Author (Level 10)</title><description>Made 2^Level commits using git commit.</description></item>
 </channel></rss>
